@@ -5,4 +5,4 @@ pip,
 NumPy, 
 random, 
 nltk, 
-tensorflow, 
+tensorflow
